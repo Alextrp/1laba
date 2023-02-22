@@ -1,5 +1,7 @@
-Ñompany = {
-c_id:number, c_name:string, ñ_rating:number, city:string
+group: Belrus,Homel
+
+Company = {
+c_id:number, c_name:string, Ã±_rating:number, city:string
 180,'Electronic',230,'Homel'
 230,'Texnomir',300,'Moscow'
 150,'Appliances',140,'Homel'
